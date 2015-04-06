@@ -1,7 +1,0 @@
-{'LOGO_URL>>': [u'https://pbs.twimg.com/profile_images/423550596806090752/an7wJi9p_400x400.jpeg'], 'BG_IMG_URL>>': [<div class="ProfileCanopy-headerBg">
-<img alt="" src="https://pbs.twimg.com/profile_banners/7537222/1398193629/1500x500">
-</img></div>]}{'LOGO_URL>>': [u'https://pbs.twimg.com/profile_images/526421954954559488/8h1Q9IaT_400x400.jpeg'], 'BG_IMG_URL>>': [<div class="ProfileCanopy-headerBg">
-<img alt="" src="https://pbs.twimg.com/profile_banners/541257023/1415930765/1500x500">
-</img></div>]}{'LOGO_URL>>': [u'https://pbs.twimg.com/profile_images/440896287211130882/qq6YaaBY_400x400.png'], 'BG_IMG_URL>>': [<div class="ProfileCanopy-headerBg">
-<img alt="" src="https://pbs.twimg.com/profile_banners/14976198/1398349571/1500x500">
-</img></div>]}
