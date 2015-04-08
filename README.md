@@ -1,5 +1,6 @@
 # twessets
-# Given twitter handles in a csv file, it gets the LOGO_URL and BG_IMG_URL 
+
+ Given twitter handles in a csv file, it gets the LOGO_URL and BG_IMG_URL 
 
 Following dependencies need to be installed before using this tool
 
